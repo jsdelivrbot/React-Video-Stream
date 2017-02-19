@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReactVideoStream
 
 A simple react app using YouTube API
 
